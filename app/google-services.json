@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780365434682",
+    "project_id": "self-me-53cef",
+    "storage_bucket": "self-me-53cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780365434682:android:e99974f9ca099b18d64a03",
+        "android_client_info": {
+          "package_name": "com.example.selfme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780365434682-oq57i4csh4ri0gfsq3dq6p531t3k52vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DJW-tdf3MC8lykGeeAyUkCazrA1vjEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780365434682-oq57i4csh4ri0gfsq3dq6p531t3k52vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Self.me</string>
+    <string name="add_thoughts_menu">Add Thoughts</string>
+    <string name="menu_signout">SignOut</string>
+    <string name="main_page_title_text">Self. Gratitude. Journal</string>
+    <string name="main_page_text">What are you grateful for Today??</string>
+    <string name="main_get_started_button">get started</string>
+    <string name="password_login_text">Password</string>
+    <string name="email_login">Email</string>
+    <string name="or_text">Or</string>
+    <string name="login_text">login</string>
+    <string name="create_account_text">create account</string>
+    <string name="username_text">Username</string>
+    <string name="today_text">Today</string>
+    <string name="title_text">Title</string>
+    <string name="thoughts_text">Thoughts...</string>
+    <string name="save_text">save</string>
+    <string name="add_image_text">add image</string>
+    <string name="add_image_button_text">add image button</string>
+    <string name="journal_list_image_view_text">this is a share content description</string>
+    <string name="this_is_journal_list_image_view">this is journal list image view</string>
+    <string name="journal_list_add_text">Write a journal by cicking the + icon in Appbar!!</string>
+</resources>
